@@ -1,0 +1,223 @@
+Find original research paper with DOI at http://dx.doi.org/{DOI}
+Example: http://dx.doi.org/10.1002/chem.200902144
+Access the isotherm data at: https://adsorbents.nist.gov/isodb/api/isotherm/{filename}.json
+You can also change the .json to .csv
+Example: https://adsorbents.nist.gov/isodb/api/isotherm/10.1002Aic.10306.Isotherm1.csv
+Below is a listing of all results that match your search parameters:
+
+DOI: 10.1007/s10934-010-9378-0
+title: Methane storage on CPO-27-Ni pellets
+journal: Journal of Porous Materials
+year: 2011
+authors: Marco Tagliabue, Caterina Rizzo, Roberto Millini, Pascal D. C. Dietzel, Richard Blom, Stefano Zanardi
+adsorbentMaterial: CPO-27-Ni
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1007s10934-010-9378-0.Isotherm1, 10.1007s10934-010-9378-0.Isotherm2, 10.1007s10934-010-9378-0.Isotherm3, 10.1007s10934-010-9378-0.Isotherm4, 10.1007s10934-010-9378-0.Isotherm5, 10.1007s10934-010-9378-0.Isotherm6, 10.1007s10934-010-9378-0.Isotherm7, 
+
+DOI: 10.1007/s10934-011-9494-5
+title: Binary adsorption behaviour of methane and nitrogen gases
+journal: Journal of Porous Materials
+year: 2011
+authors: V. P. Mulgundmath, F. H. Tezel, F. Hou, T. C. Golden
+adsorbentMaterial: Silicalite MFI, Zeolite 13X, Alumina
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1007s1093401194945.Isotherm1, 10.1007s1093401194945.Isotherm10, 10.1007s1093401194945.Isotherm11, 10.1007s1093401194945.Isotherm12, 10.1007s1093401194945.Isotherm13, 10.1007s1093401194945.Isotherm14, 10.1007s1093401194945.Isotherm15, 10.1007s1093401194945.Isotherm16, 10.1007s1093401194945.Isotherm2, 10.1007s1093401194945.Isotherm3, 10.1007s1093401194945.Isotherm4, 10.1007s1093401194945.Isotherm5, 10.1007s1093401194945.Isotherm6, 10.1007s1093401194945.Isotherm7, 10.1007s1093401194945.Isotherm8, 10.1007s1093401194945.Isotherm9, 
+
+DOI: 10.1016/j.apsusc.2012.10.040
+title: Effect of the surface oxygen groups on methane adsorption on coals
+journal: Applied Surface Science
+year: 2013
+authors: Shixiong Hao, Jie Wen, Xiaopeng Yu, Wei Chu
+adsorbentMaterial: Carbon
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016j.apsusc.2012.10.040.Isotherm1, 10.1016j.apsusc.2012.10.040.Isotherm10, 10.1016j.apsusc.2012.10.040.Isotherm11, 10.1016j.apsusc.2012.10.040.Isotherm12, 10.1016j.apsusc.2012.10.040.Isotherm13, 10.1016j.apsusc.2012.10.040.Isotherm14, 10.1016j.apsusc.2012.10.040.Isotherm15, 10.1016j.apsusc.2012.10.040.Isotherm2, 10.1016j.apsusc.2012.10.040.Isotherm3, 10.1016j.apsusc.2012.10.040.Isotherm4, 10.1016j.apsusc.2012.10.040.Isotherm5, 10.1016j.apsusc.2012.10.040.Isotherm6, 10.1016j.apsusc.2012.10.040.Isotherm7, 10.1016j.apsusc.2012.10.040.Isotherm8, 10.1016j.apsusc.2012.10.040.Isotherm9, 
+
+DOI: 10.1016/j.carbon.2011.05.005
+title: Methane storage in wet carbon of tailored pore sizes
+journal: Carbon
+year: 2011
+authors: Jia Liu, Yaping Zhou, Yan Sun, Wei Su, Li Zhou
+adsorbentMaterial: Carbon
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016j.carbon.2011.05.005.Isotherm1, 10.1016j.carbon.2011.05.005.Isotherm2, 10.1016j.carbon.2011.05.005.Isotherm3, 10.1016j.carbon.2011.05.005.Isotherm4, 10.1016j.carbon.2011.05.005.Isotherm5, 10.1016j.carbon.2011.05.005.Isotherm6, 10.1016j.carbon.2011.05.005.Isotherm7, 10.1016j.carbon.2011.05.005.Isotherm8, 
+
+DOI: 10.1016/j.fuel.2014.01.053
+title: Influence of structural parameters on methane adsorption over activated carbon: Evaluation by using D–A model
+journal: Fuel
+year: 2014
+authors: Jingjie Luo, Yuefeng Liu, Wenjing Sun, Chengfa Jiang, Heping Xie, Wei Chu
+adsorbentMaterial: Activated Carbon - pecan shell, Activated Carbon - anthracite, Activated Carbon - coconut shell, Activated Carbon - fruit shell
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016j.fuel.2014.01.053.Isotherm1, 10.1016j.fuel.2014.01.053.Isotherm2, 10.1016j.fuel.2014.01.053.Isotherm3, 10.1016j.fuel.2014.01.053.Isotherm4, 10.1016j.fuel.2014.01.053.Isotherm5, 10.1016j.fuel.2014.01.053.Isotherm6, 10.1016j.fuel.2014.01.053.Isotherm7, 10.1016j.fuel.2014.01.053.Isotherm8, 
+
+DOI: 10.1016/j.jiec.2009.09.043
+title: Adsorption of methane on porous metal carboxylates
+journal: Journal of Industrial and Engineering Chemistry
+year: 2009
+authors: Ji Sun Lee, Sung Hwa Jhung, Ji Woong Yoon, Young Kyu Hwang, Jong-San Chang
+adsorbentMaterial: Carbon, MIL-100-Fe, HY, H-ZSM-5, MIL-100-Cr, MIL-101
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016j.jiec.2009.09.043.Isotherm1, 10.1016j.jiec.2009.09.043.Isotherm2, 10.1016j.jiec.2009.09.043.Isotherm3, 10.1016j.jiec.2009.09.043.Isotherm4, 10.1016j.jiec.2009.09.043.Isotherm5, 10.1016j.jiec.2009.09.043.Isotherm6, 10.1016j.jiec.2009.09.043.Isotherm7, 10.1016j.jiec.2009.09.043.Isotherm8, 10.1016j.jiec.2009.09.043.Isotherm9, 
+
+DOI: 10.1016/j.jiec.2013.01.026
+title: Preparation of multi-walled carbon nanotube incorporated MIL-53-Cu composite metal–organic framework with enhanced methane sorption
+journal: Journal of Industrial and Engineering Chemistry
+year: 2013
+authors: Mansoor Anbia, Sara Sheykhi
+adsorbentMaterial: MIL-53-Cu
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016j.jiec.2013.01.026.isotherm1, 10.1016j.jiec.2013.01.026.isotherm2, 10.1016j.jiec.2013.01.026.isotherm3, 10.1016j.jiec.2013.01.026.isotherm4, 
+
+DOI: 10.1016/j.jpcs.2013.01.036
+title: Pore size distribution analysis of activated carbons prepared from coconut shell using methane adsorption data
+journal: Journal of Physics and Chemistry of Solids
+year: 2013
+authors: A. Ahmadpour, A. Okhovat, M. J. Darabi Mahboub
+adsorbentMaterial: Activated Carbon L15, Activated Carbon L16, Activated Carbon L3, Activated Carbon L10, Activated Carbon L11, Activated Carbon L4, Activated Carbon L7, Activated Carbon L8, Activated Carbon L2, Activated Carbon L6, Activated Carbon L13, Activated Carbon L12, Activated Carbon L9, Activated Carbon L1, Activated Carbon L14, Activated Carbon L5
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016j.jpcs.2013.01.036.isotherm1, 10.1016j.jpcs.2013.01.036.isotherm10, 10.1016j.jpcs.2013.01.036.isotherm11, 10.1016j.jpcs.2013.01.036.isotherm12, 10.1016j.jpcs.2013.01.036.isotherm13, 10.1016j.jpcs.2013.01.036.isotherm14, 10.1016j.jpcs.2013.01.036.isotherm15, 10.1016j.jpcs.2013.01.036.isotherm16, 10.1016j.jpcs.2013.01.036.isotherm17, 10.1016j.jpcs.2013.01.036.isotherm18, 10.1016j.jpcs.2013.01.036.isotherm19, 10.1016j.jpcs.2013.01.036.isotherm2, 10.1016j.jpcs.2013.01.036.isotherm20, 10.1016j.jpcs.2013.01.036.isotherm3, 10.1016j.jpcs.2013.01.036.isotherm4, 10.1016j.jpcs.2013.01.036.isotherm5, 10.1016j.jpcs.2013.01.036.isotherm6, 10.1016j.jpcs.2013.01.036.isotherm7, 10.1016j.jpcs.2013.01.036.isotherm8, 10.1016j.jpcs.2013.01.036.isotherm9, 
+
+DOI: 10.1016/j.jpowsour.2009.02.019
+title: Enhanced methane storage of chemically and physically activated carbide-derived carbon
+journal: Journal of Power Sources
+year: 2009
+authors: Sun-Hwa Yeon, Sebastian Osswald, Yury Gogotsi, Jonathan P. Singer, Jason M. Simmons, John E. Fischer, María A. Lillo-Ródenas, Ángel Linares-Solano
+adsorbentMaterial: Carbon
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016j.jpowsour.2009.02.019.Isotherm1, 10.1016j.jpowsour.2009.02.019.Isotherm10, 10.1016j.jpowsour.2009.02.019.Isotherm11, 10.1016j.jpowsour.2009.02.019.Isotherm12, 10.1016j.jpowsour.2009.02.019.Isotherm13, 10.1016j.jpowsour.2009.02.019.Isotherm14, 10.1016j.jpowsour.2009.02.019.Isotherm15, 10.1016j.jpowsour.2009.02.019.Isotherm16, 10.1016j.jpowsour.2009.02.019.Isotherm17, 10.1016j.jpowsour.2009.02.019.Isotherm18, 10.1016j.jpowsour.2009.02.019.Isotherm19, 10.1016j.jpowsour.2009.02.019.Isotherm2, 10.1016j.jpowsour.2009.02.019.Isotherm3, 10.1016j.jpowsour.2009.02.019.Isotherm4, 10.1016j.jpowsour.2009.02.019.Isotherm5, 10.1016j.jpowsour.2009.02.019.Isotherm6, 10.1016j.jpowsour.2009.02.019.Isotherm7, 10.1016j.jpowsour.2009.02.019.Isotherm8, 10.1016j.jpowsour.2009.02.019.Isotherm9, 
+
+DOI: 10.1016/j.matlet.2013.03.044
+title: High pressure methane adsorption on microporous carbon monoliths prepared by olives stones
+journal: Materials Letters
+year: 2013
+authors: W. Djeridi, A. Ouederni, Andrew D. Wiersum, Philip L. Llewellyn, L. El Mir
+adsorbentMaterial: Activated Carbon ACP 800, Activated Carbon ACP 470, Activated Carbon ACP 410, Activated Carbon ACP 500, Activated Carbon ACP 1000, Activated Carbon ACP 600, Activated Carbon ACP 350
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016j.matlet.2013.03.044.Isotherm1, 10.1016j.matlet.2013.03.044.Isotherm10, 10.1016j.matlet.2013.03.044.Isotherm11, 10.1016j.matlet.2013.03.044.Isotherm12, 10.1016j.matlet.2013.03.044.Isotherm13, 10.1016j.matlet.2013.03.044.Isotherm14, 10.1016j.matlet.2013.03.044.Isotherm2, 10.1016j.matlet.2013.03.044.Isotherm3, 10.1016j.matlet.2013.03.044.Isotherm4, 10.1016j.matlet.2013.03.044.Isotherm5, 10.1016j.matlet.2013.03.044.Isotherm6, 10.1016j.matlet.2013.03.044.Isotherm7, 10.1016j.matlet.2013.03.044.Isotherm8, 10.1016j.matlet.2013.03.044.Isotherm9, 
+
+DOI: 10.1016/S0009-2614(00)00910-6
+title: Methane dynamics in porous xerogels characterized by small-angle and quasielastic neutron scattering
+journal: Chemical Physics Letters
+year: 2000
+authors: Patrick Lloyd, Otto Berg, P Thiyagarajan, Frans R Trouw, Eric L Chronister
+adsorbentMaterial: ASX Xerogel, SX6 Xerogel, SX4 Xerogel
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016S0009-2614(00)00910-6.Isotherm1, 10.1016S0009-2614(00)00910-6.Isotherm2, 10.1016S0009-2614(00)00910-6.Isotherm3, 
+
+DOI: 10.1016/S1003-9953(11)60419-2
+title: Synthesis of nanoporous copper terephthalate [MIL-53(Cu)] as a novel methane-storage adsorbent
+journal: Journal of Natural Gas Chemistry
+year: 2012
+authors: Mansoor Anbia, Sara Sheykhi
+adsorbentMaterial: MIL-53(Cu)
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1016S1003-9953(11)60419-2.Isotherm1, 
+
+DOI: 10.1021/acs.iecr.5b01608
+title: Adsorption Equilibrium and Dynamics of Fixed Bed Adsorption of CH4/N2in Binderless Beads of 5A Zeolite
+journal: Industrial & Engineering Chemistry Research
+year: 2015
+authors: José A. C. Silva, Alexandre F. P. Ferreira, Patrícia A. P. Mendes, Adelino F. Cunha, Kristin Gleichmann, Alírio E. Rodrigues
+adsorbentMaterial: Binderless Beads of Zeolite 5A
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1021acs.iecr.5b01608.Isotherm1, 10.1021acs.iecr.5b01608.Isotherm2, 10.1021acs.iecr.5b01608.Isotherm3, 10.1021acs.iecr.5b01608.Isotherm4, 10.1021acs.iecr.5b01608.Isotherm5, 10.1021acs.iecr.5b01608.Isotherm6, 
+
+DOI: 10.1021/Ic061052d
+title: Functionalities of One-Dimensional Dynamic Ultramicropores in Nickel(II) Coordination Polymers
+journal: Inorganic Chemistry
+year: 2006
+authors: Shin-ichiro Noro, Ryo Kitaura, Susumu Kitagawa, Tomoyuki Akutagawa, Takayoshi Nakamura
+adsorbentMaterial: [Ni2(NCS)4(azpy)4]n
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1021Ic061052d.Isotherm1, 10.1021Ic061052d.Isotherm2, 10.1021Ic061052d.Isotherm3, 
+
+DOI: 10.1021/Ie200652e
+title: Adsorption Measurements of Nitrogen and Methane in Hydrogen-Rich Mixtures at High Pressures
+journal: Industrial & Engineering Chemistry Research
+year: 2011
+authors: Moises Bastos-Neto, Andreas Moeller, Reiner Staudt, Jürgen Böhm, Roger Gläser
+adsorbentMaterial: Zeolite 5A
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1021Ie200652e.isotherm1, 10.1021Ie200652e.isotherm10, 10.1021Ie200652e.isotherm11, 10.1021Ie200652e.isotherm12, 10.1021Ie200652e.isotherm13, 10.1021Ie200652e.isotherm14, 10.1021Ie200652e.isotherm17, 10.1021Ie200652e.isotherm18, 10.1021Ie200652e.isotherm2, 10.1021Ie200652e.isotherm3, 10.1021Ie200652e.isotherm4, 10.1021Ie200652e.isotherm5, 10.1021Ie200652e.isotherm6, 10.1021Ie200652e.isotherm7, 10.1021Ie200652e.isotherm8, 10.1021Ie200652e.isotherm9, 
+
+DOI: 10.1021/Ja0771639
+title: Metal-Organic Framework from an Anthracene Derivative Containing Nanoscopic Cages Exhibiting High Methane Uptake
+journal: Journal of the American Chemical Society
+year: 2008
+authors: Shengqian Ma, Daofeng Sun, Jason M. Simmons, Christopher D. Collier, Daqiang Yuan, Hong-Cai Zhou
+adsorbentMaterial: PCN-14, PCN-13
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1021Ja0771639.Isotherm1, 10.1021Ja0771639.Isotherm10, 10.1021Ja0771639.Isotherm11, 10.1021Ja0771639.Isotherm12, 10.1021Ja0771639.Isotherm13, 10.1021Ja0771639.Isotherm14, 10.1021Ja0771639.Isotherm15, 10.1021Ja0771639.Isotherm16, 10.1021Ja0771639.Isotherm17, 10.1021Ja0771639.Isotherm2, 10.1021Ja0771639.Isotherm3, 10.1021Ja0771639.Isotherm4, 10.1021Ja0771639.Isotherm5, 10.1021Ja0771639.Isotherm6, 10.1021Ja0771639.Isotherm7, 10.1021Ja0771639.Isotherm8, 10.1021Ja0771639.Isotherm9, 
+
+DOI: 10.1021/Ja4045289
+title: Methane Storage in Metal–Organic Frameworks: Current Records, Surprise Findings, and Challenges
+journal: Journal of the American Chemical Society
+year: 2013
+authors: Yang Peng, Vaiva Krungleviciute, Ibrahim Eryazici, Joseph T. Hupp, Omar K. Farha, Taner Yildirim
+adsorbentMaterial: NU-111, PCN-14, UTSA-20, CuBTC, Ni-MOF-74, NU-125
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1021Ja4045289.isotherm1, 10.1021Ja4045289.isotherm10, 10.1021Ja4045289.isotherm11, 10.1021Ja4045289.isotherm12, 10.1021Ja4045289.isotherm13, 10.1021Ja4045289.isotherm14, 10.1021Ja4045289.isotherm15, 10.1021Ja4045289.isotherm16, 10.1021Ja4045289.isotherm17, 10.1021Ja4045289.isotherm18, 10.1021Ja4045289.isotherm19, 10.1021Ja4045289.isotherm2, 10.1021Ja4045289.isotherm20, 10.1021Ja4045289.isotherm21, 10.1021Ja4045289.isotherm22, 10.1021Ja4045289.isotherm23, 10.1021Ja4045289.isotherm24, 10.1021Ja4045289.isotherm25, 10.1021Ja4045289.isotherm26, 10.1021Ja4045289.isotherm27, 10.1021Ja4045289.isotherm28, 10.1021Ja4045289.isotherm29, 10.1021Ja4045289.isotherm3, 10.1021Ja4045289.isotherm30, 10.1021Ja4045289.isotherm31, 10.1021Ja4045289.isotherm32, 10.1021Ja4045289.isotherm33, 10.1021Ja4045289.isotherm34, 10.1021Ja4045289.isotherm35, 10.1021Ja4045289.isotherm36, 10.1021Ja4045289.isotherm37, 10.1021Ja4045289.isotherm38, 10.1021Ja4045289.isotherm39, 10.1021Ja4045289.isotherm4, 10.1021Ja4045289.isotherm40, 10.1021Ja4045289.isotherm5, 10.1021Ja4045289.isotherm6, 10.1021Ja4045289.isotherm7, 10.1021Ja4045289.isotherm8, 10.1021Ja4045289.isotherm9, 
+
+DOI: 10.1021/La981341h
+title: Thermodynamic Consistency for Binary Gas Adsorption Equilibria
+journal: Langmuir
+year: 1999
+authors: M. B. Rao, S. Sircar
+adsorbentMaterial: Zeolite 5A
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1021la981341h.Isotherm10, 10.1021la981341h.Isotherm11, 10.1021la981341h.Isotherm12, 10.1021la981341h.Isotherm13, 10.1021la981341h.Isotherm14, 10.1021la981341h.Isotherm15, 10.1021la981341h.Isotherm16, 10.1021la981341h.Isotherm17, 10.1021la981341h.Isotherm18, 
+
+DOI: 10.1039/C2dt30672g
+title: Introducing a photo-switchable azo-functionality inside Cr-MIL-101-NH2 by covalent post-synthetic modification
+journal: Dalton Transactions
+year: 2012
+authors: Antje Modrow, Dordaneh Zargarani, Rainer Herges, Norbert Stock
+adsorbentMaterial: Cr-MIL-101-NO2, Cr-MIL-101-NH2, Cr-MIL-101_amide, Cr-MIL-101_urea
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1039C2dt30672g.Isotherm1, 10.1039C2dt30672g.Isotherm10, 10.1039C2dt30672g.Isotherm11, 10.1039C2dt30672g.Isotherm12, 10.1039C2dt30672g.Isotherm13, 10.1039C2dt30672g.Isotherm14, 10.1039C2dt30672g.Isotherm15, 10.1039C2dt30672g.Isotherm16, 10.1039C2dt30672g.Isotherm17, 10.1039C2dt30672g.Isotherm18, 10.1039C2dt30672g.Isotherm19, 10.1039C2dt30672g.Isotherm2, 10.1039C2dt30672g.Isotherm20, 10.1039C2dt30672g.Isotherm3, 10.1039C2dt30672g.Isotherm4, 10.1039C2dt30672g.Isotherm5, 10.1039C2dt30672g.Isotherm6, 10.1039C2dt30672g.Isotherm7, 10.1039C2dt30672g.Isotherm8, 10.1039C2dt30672g.Isotherm9, 
+
+DOI: 10.1039/C2jm15734a
+title: Pure and mixed gas adsorption of CH4 and N2 on the metal–organic framework Basolite® A100 and a novel copper-based 1,2,4-triazolyl isophthalate MOF
+journal: Journal of Materials Chemistry
+year: 2012
+authors: Jens Möllmer, Marcus Lange, Andreas Möller, Christin Patzschke, Karolin Stein, Daniel Lässig, Jörg Lincke, Roger Gläser, Harald Krautscheid, Reiner Staudt
+adsorbentMaterial: MIL-53(Al), Inf-3[Cu-Me-4py-trz-ia], Norit R1 Extra Carbon
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1039C2jm15734a.Isotherm1, 10.1039C2jm15734a.Isotherm10, 10.1039C2jm15734a.Isotherm11, 10.1039C2jm15734a.Isotherm12, 10.1039C2jm15734a.Isotherm13, 10.1039C2jm15734a.Isotherm14, 10.1039C2jm15734a.Isotherm15, 10.1039C2jm15734a.Isotherm16, 10.1039C2jm15734a.Isotherm17, 10.1039C2jm15734a.Isotherm18, 10.1039C2jm15734a.Isotherm19, 10.1039C2jm15734a.Isotherm2, 10.1039C2jm15734a.Isotherm20, 10.1039C2jm15734a.Isotherm21, 10.1039C2jm15734a.Isotherm22, 10.1039C2jm15734a.Isotherm23, 10.1039C2jm15734a.Isotherm24, 10.1039C2jm15734a.Isotherm25, 10.1039C2jm15734a.Isotherm26, 10.1039C2jm15734a.Isotherm27, 10.1039C2jm15734a.Isotherm28, 10.1039C2jm15734a.Isotherm29, 10.1039C2jm15734a.Isotherm3, 10.1039C2jm15734a.Isotherm30, 10.1039C2jm15734a.Isotherm31, 10.1039C2jm15734a.Isotherm32, 10.1039C2jm15734a.Isotherm33, 10.1039C2jm15734a.Isotherm34, 10.1039C2jm15734a.Isotherm35, 10.1039C2jm15734a.Isotherm36, 10.1039C2jm15734a.Isotherm4, 10.1039C2jm15734a.Isotherm5, 10.1039C2jm15734a.Isotherm6, 10.1039C2jm15734a.Isotherm7, 10.1039C2jm15734a.Isotherm8, 10.1039C2jm15734a.Isotherm87, 10.1039C2jm15734a.Isotherm88, 10.1039C2jm15734a.Isotherm89, 10.1039C2jm15734a.Isotherm9, 
+
+DOI: 10.1039/C3dt32846e
+title: Modulating methane storage in anionic nano-porous MOF materials via post-synthetic cation exchange process
+journal: Dalton Transactions
+year: 2013
+authors: Kamran Akhbari, Ali Morsali
+adsorbentMaterial: [HDMA]2-[Zn2(BDC)3(DMA)2]*6DMF
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1039C3dt32846e.isotherm1, 10.1039C3dt32846e.isotherm2, 10.1039C3dt32846e.isotherm3, 10.1039C3dt32846e.isotherm4, 10.1039C3dt32846e.isotherm5, 10.1039C3dt32846e.isotherm6, 
+
+DOI: 10.1039/C3ee41166d
+title: A series of metal–organic frameworks with high methane uptake and an empirical equation for predicting methane storage capacity
+journal: Energy & Environmental Science
+year: 2013
+authors: Yabing He, Wei Zhou, Taner Yildirim, Banglin Chen
+adsorbentMaterial: NOTT-102a, NOTT-100a, NOTT-103a, NOTT-109a, NOTT-101a
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1039C3ee41166d.Isotherm1, 10.1039C3ee41166d.Isotherm10, 10.1039C3ee41166d.Isotherm11, 10.1039C3ee41166d.Isotherm12, 10.1039C3ee41166d.Isotherm13, 10.1039C3ee41166d.Isotherm14, 10.1039C3ee41166d.Isotherm15, 10.1039C3ee41166d.Isotherm16, 10.1039C3ee41166d.Isotherm17, 10.1039C3ee41166d.Isotherm18, 10.1039C3ee41166d.Isotherm19, 10.1039C3ee41166d.Isotherm2, 10.1039C3ee41166d.Isotherm20, 10.1039C3ee41166d.Isotherm21, 10.1039C3ee41166d.Isotherm22, 10.1039C3ee41166d.Isotherm23, 10.1039C3ee41166d.Isotherm24, 10.1039C3ee41166d.Isotherm25, 10.1039C3ee41166d.Isotherm3, 10.1039C3ee41166d.Isotherm4, 10.1039C3ee41166d.Isotherm5, 10.1039C3ee41166d.Isotherm6, 10.1039C3ee41166d.Isotherm7, 10.1039C3ee41166d.Isotherm8, 10.1039C3ee41166d.Isotherm9, 
+
+DOI: 10.1039/C4ta01860e
+title: A porous metal–organic framework with an elongated anthracene derivative exhibiting a high working capacity for the storage of methane
+journal: Journal of Materials Chemistry A
+year: 2014
+authors: Hui-Min Wen, Bin Li, Daqiang Yuan, Hailong Wang, Taner Yildirim, Wei Zhou, Banglin Chen
+adsorbentMaterial: UTSA-80a
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.1039C4ta01860e.Isotherm1, 10.1039C4ta01860e.Isotherm2, 10.1039C4ta01860e.Isotherm3, 10.1039C4ta01860e.Isotherm4, 10.1039C4ta01860e.Isotherm5, 10.1039C4ta01860e.Isotherm6, 10.1039C4ta01860e.Isotherm7, 
+
+DOI: 10.8888/Ie200652e
+title: Adsorption Measurements of Nitrogen and Methane in Hydrogen-Rich Mixtures at High Pressures
+journal: Industrial & Engineering Chemistry Research
+year: 2011
+authors: Moises Bastos-Neto, Andreas Moeller, Reiner Staudt, Jürgen Böhm, Roger Gläser
+adsorbentMaterial: Demo Zeolite 5A
+adsorbates: Nitrogen, Methane, 
+isotherms: 10.8888Ie200652e.isotherm10, 10.8888Ie200652e.isotherm13, 10.8888Ie200652e.isotherm14, 10.8888Ie200652e.isotherm2, 10.8888Ie200652e.isotherm4, 
+
